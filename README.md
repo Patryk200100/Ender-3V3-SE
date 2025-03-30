@@ -1,4 +1,5 @@
 # Marlin 3D Printer Firmware
+Modify to enable M852 for skew. 
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
